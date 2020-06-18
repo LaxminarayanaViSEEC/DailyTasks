@@ -1,5 +1,4 @@
 import json
-from operator import itemgetter
 
 def number_of_columns_calculator(data,child):
     blocks = data['Blocks']
@@ -11,6 +10,31 @@ def number_of_columns_calculator(data,child):
             if row['RowId']==0:
                 column_counter+=1
     return column_counter
+
+
+#lets calculate the vertical distance
+def vertical_distance(table_data):
+    new_table_data =[]
+    initial = True
+    second_initial = True
+    for data in table_data:
+        if initial:
+            initial = False
+            prev_data = data
+        else:
+            curr_data = data
+            prev = prev_data["BoundingBox"]["Top"]+prev_data["BoundingBox"]["Height"]
+            curr = curr_data["BoundingBox"]["Top"]
+            distance = curr - prev
+            if distance <= 60:
+                if second_initial:
+                    second_initial = False
+                    new_table_data.append(prev_data)
+                    new_table_data.append(curr_data)
+                else:
+                    new_table_data.append(curr_data)
+            prev_data = curr_data
+    return new_table_data
 
 
 def checking_horizontal_overlap(cords_1, cords_2):
@@ -49,6 +73,8 @@ def table_merger(data):
     table_child = list(filter(lambda x:(x['Type']=='Table'),data['Blocks']))
     table_child = sorted(table_child,key=lambda x :(x['BoundingBox']['Top'],x['BoundingBox']['Left']))
     
+    table_child = vertical_distance(table_child)
+
     table_json = None
     cell_json = None
     ids_to_delete = []
