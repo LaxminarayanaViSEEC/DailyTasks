@@ -1,0 +1,3540 @@
+[
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 181.4561004638672,
+                "Width": 124.46404266357422,
+                "Height": 13.44000244140625
+            }
+        ],
+        "Type": "Block",
+        "Text": "Operations in 25 countries",
+        "BlockType": "Heading",
+        "Child": [
+            "block0_line0"
+        ],
+        "Id": "block0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 181.4561004638672,
+                "Width": 124.46404266357422,
+                "Height": 13.44000244140625
+            }
+        ],
+        "Type": "Sentence",
+        "Text": "Operations in 25 countries",
+        "Id": "block0_line0",
+        "Child": [
+            "block0_line0_word0",
+            "block0_line0_word1",
+            "block0_line0_word2",
+            "block0_line0_word3"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 181.4561004638672,
+                "Width": 52.222816467285156,
+                "Height": 13.44000244140625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Operations",
+        "Id": "block0_line0_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 128.11962890625,
+                "Top": 181.4561004638672,
+                "Width": 9.14398193359375,
+                "Height": 13.44000244140625
+            }
+        ],
+        "Type": "Word",
+        "Text": "in",
+        "Id": "block0_line0_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 139.45962524414062,
+                "Top": 181.4561004638672,
+                "Width": 12.042007446289062,
+                "Height": 13.44000244140625
+            }
+        ],
+        "Type": "Word",
+        "Text": "25",
+        "Id": "block0_line0_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 153.6976318359375,
+                "Top": 181.4561004638672,
+                "Width": 44.46720886230469,
+                "Height": 13.44000244140625
+            }
+        ],
+        "Type": "Word",
+        "Text": "countries",
+        "Id": "block0_line0_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 204.03648376464844,
+                "Width": 160.97750091552734,
+                "Height": 32.64195251464844
+            }
+        ],
+        "Type": "Block",
+        "Text": "We are the number one or two mobile operator  \nin most of our operations and we are Europe\u2019s  \nlargest NGN provider.",
+        "BlockType": "Paragraph",
+        "Child": [
+            "block1_line0",
+            "block1_line1",
+            "block1_line2"
+        ],
+        "Id": "block1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 204.03648376464844,
+                "Width": 160.97750091552734,
+                "Height": 32.64195251464844
+            }
+        ],
+        "Type": "Sentence",
+        "Text": "We are the number one or two mobile operator",
+        "Child": [
+            "block1_line0_word0",
+            "block1_line0_word1",
+            "block1_line0_word2",
+            "block1_line0_word3",
+            "block1_line0_word4",
+            "block1_line0_word5",
+            "block1_line0_word6",
+            "block1_line0_word7",
+            "block1_line0_word8"
+        ],
+        "Id": "block1_line0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 204.03648376464844,
+                "Width": 10.917404174804688,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "We",
+        "Id": "block1_line0_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 85.90070343017578,
+                "Top": 204.03648376464844,
+                "Width": 10.86419677734375,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "are",
+        "Id": "block1_line0_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 98.04740142822266,
+                "Top": 204.03648376464844,
+                "Width": 11.540596008300781,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "the",
+        "Id": "block1_line0_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 110.87049865722656,
+                "Top": 204.03648376464844,
+                "Width": 27.353347778320312,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "number",
+        "Id": "block1_line0_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 139.50634765625,
+                "Top": 204.03648376464844,
+                "Width": 13.432052612304688,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "one",
+        "Id": "block1_line0_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 154.2209014892578,
+                "Top": 204.03648376464844,
+                "Width": 7.2627410888671875,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "or",
+        "Id": "block1_line0_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 162.76614379882812,
+                "Top": 204.03648376464844,
+                "Width": 13.23919677734375,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "two",
+        "Id": "block1_line0_word6"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 177.28785705566406,
+                "Top": 204.03648376464844,
+                "Width": 23.623641967773438,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "mobile",
+        "Id": "block1_line0_word7"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 202.19400024414062,
+                "Top": 204.03648376464844,
+                "Width": 29.254302978515625,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "operator",
+        "Id": "block1_line0_word8"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 204.03648376464844,
+                "Width": 160.97750091552734,
+                "Height": 32.64195251464844
+            }
+        ],
+        "Type": "Sentence",
+        "Text": "in most of our operations and we are Europe\u2019s",
+        "Child": [
+            "block1_line1_word0",
+            "block1_line1_word1",
+            "block1_line1_word2",
+            "block1_line1_word3",
+            "block1_line1_word4",
+            "block1_line1_word5",
+            "block1_line1_word6",
+            "block1_line1_word7",
+            "block1_line1_word8"
+        ],
+        "Id": "block1_line1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.7008056640625,
+                "Top": 215.03746032714844,
+                "Width": 6.248146057128906,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "in",
+        "Id": "block1_line1_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 81.23145294189453,
+                "Top": 215.03746032714844,
+                "Width": 17.650054931640625,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "most",
+        "Id": "block1_line1_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 100.16400146484375,
+                "Top": 215.03746032714844,
+                "Width": 6.8361968994140625,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "of",
+        "Id": "block1_line1_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 108.28269958496094,
+                "Top": 215.03746032714844,
+                "Width": 11.73724365234375,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "our",
+        "Id": "block1_line1_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 121.30243682861328,
+                "Top": 215.03746032714844,
+                "Width": 36.213966369628906,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "operations",
+        "Id": "block1_line1_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 158.7989044189453,
+                "Top": 215.03746032714844,
+                "Width": 13.10430908203125,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "and",
+        "Id": "block1_line1_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 173.1857147216797,
+                "Top": 215.03746032714844,
+                "Width": 10.153594970703125,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "we",
+        "Id": "block1_line1_word6"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 184.62181091308594,
+                "Top": 215.03746032714844,
+                "Width": 10.86419677734375,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "are",
+        "Id": "block1_line1_word7"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 196.7685089111328,
+                "Top": 215.03746032714844,
+                "Width": 28.747940063476562,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "Europe\u2019s",
+        "Id": "block1_line1_word8"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 204.03648376464844,
+                "Width": 160.97750091552734,
+                "Height": 32.64195251464844
+            }
+        ],
+        "Type": "Sentence",
+        "Text": "largest NGN provider.",
+        "Child": [
+            "block1_line2_word0",
+            "block1_line2_word1",
+            "block1_line2_word2"
+        ],
+        "Id": "block1_line2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.7008056640625,
+                "Top": 226.03843688964844,
+                "Width": 23.130599975585938,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "largest",
+        "Id": "block1_line2_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 98.11389923095703,
+                "Top": 226.03843688964844,
+                "Width": 16.673446655273438,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "NGN",
+        "Id": "block1_line2_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 116.06983947753906,
+                "Top": 226.03843688964844,
+                "Width": 28.945510864257812,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "provider.",
+        "Id": "block1_line2_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.7008056640625,
+                "Top": 242.5399627685547,
+                "Width": 136.09133911132812,
+                "Height": 21.640975952148438
+            }
+        ],
+        "Type": "Block",
+        "Text": "Europe",
+        "BlockType": "Heading",
+        "Child": [
+            "block2_line0"
+        ],
+        "Id": "block2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.7008056640625,
+                "Top": 242.5399627685547,
+                "Width": 136.09133911132812,
+                "Height": 21.640975952148438
+            }
+        ],
+        "Type": "Sentence",
+        "Text": "Europe",
+        "Child": [
+            "block2_line0_word0"
+        ],
+        "Id": "block2_line0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.7008056640625,
+                "Top": 242.5399627685547,
+                "Width": 27.84735107421875,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "Europe",
+        "Id": "block2_line0_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.7008056640625,
+                "Top": 242.5399627685547,
+                "Width": 136.09133911132812,
+                "Height": 21.640975952148438
+            }
+        ],
+        "Type": "Block",
+        "Text": "Fixed and mobile in 11 out of 13 markets.",
+        "BlockType": "Heading",
+        "Child": [
+            "block3_line1"
+        ],
+        "Id": "block3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.7008056640625,
+                "Top": 242.5399627685547,
+                "Width": 136.09133911132812,
+                "Height": 21.640975952148438
+            }
+        ],
+        "Type": "Sentence",
+        "Text": "Fixed and mobile in 11 out of 13 markets.",
+        "Child": [
+            "block3_line1_word0",
+            "block3_line1_word1",
+            "block3_line1_word2",
+            "block3_line1_word3",
+            "block3_line1_word4",
+            "block3_line1_word5",
+            "block3_line1_word6",
+            "block3_line1_word7",
+            "block3_line1_word8"
+        ],
+        "Id": "block3_line1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.7008056640625,
+                "Top": 253.5409393310547,
+                "Width": 17.764053344726562,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "Fixed",
+        "Id": "block3_line1_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 92.74736022949219,
+                "Top": 253.5409393310547,
+                "Width": 13.104301452636719,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "and",
+        "Id": "block3_line1_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 107.13416290283203,
+                "Top": 253.5409393310547,
+                "Width": 23.62364959716797,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "mobile",
+        "Id": "block3_line1_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 132.04031372070312,
+                "Top": 253.5409393310547,
+                "Width": 6.2481536865234375,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "in",
+        "Id": "block3_line1_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 139.5709686279297,
+                "Top": 253.5409393310547,
+                "Width": 8.491104125976562,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "11",
+        "Id": "block3_line1_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 149.34457397460938,
+                "Top": 253.5409393310547,
+                "Width": 11.744857788085938,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "out",
+        "Id": "block3_line1_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 162.3719482421875,
+                "Top": 253.5409393310547,
+                "Width": 6.836212158203125,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "of",
+        "Id": "block3_line1_word6"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 170.49066162109375,
+                "Top": 253.5409393310547,
+                "Width": 8.7362060546875,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "13",
+        "Id": "block3_line1_word7"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 180.50936889648438,
+                "Top": 253.5409393310547,
+                "Width": 29.28277587890625,
+                "Height": 10.639999389648438
+            }
+        ],
+        "Type": "Word",
+        "Text": "markets.",
+        "Id": "block3_line1_word8"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70069885253906,
+                "Top": 269.135986328125,
+                "Width": 192.6160125732422,
+                "Height": 18.45599365234375
+            }
+        ],
+        "Type": "Block",
+        "Id": "block4",
+        "Text": "Albania1, Czech Republic, Germany, Greece, Hungary1, Ireland, Italy,  \nMalta, Netherlands (joint venture). Portugal, Romania, Spain, UK.",
+        "BlockType": "Paragraph",
+        "Child": [
+            "block4_line0",
+            "block4_line1"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70069885253906,
+                "Top": 269.135986328125,
+                "Width": 192.6160125732422,
+                "Height": 18.45599365234375
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block4_line0",
+        "Text": "Albania1, Czech Republic, Germany, Greece, Hungary1, Ireland, Italy,",
+        "Child": [
+            "block4_line0_word0",
+            "block4_line0_word1",
+            "block4_line0_word2",
+            "block4_line0_word3",
+            "block4_line0_word4",
+            "block4_line0_word5",
+            "block4_line0_word6",
+            "block4_line0_word7"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 269.135986328125,
+                "Width": 24.347305297851562,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Albania1,",
+        "Id": "block4_line0_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 99.12810516357422,
+                "Top": 269.135986328125,
+                "Width": 18.294395446777344,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Czech",
+        "Id": "block4_line0_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 118.50250244140625,
+                "Top": 269.135986328125,
+                "Width": 26.823196411132812,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Republic,",
+        "Id": "block4_line0_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 146.4056854248047,
+                "Top": 269.135986328125,
+                "Width": 27.82958984375,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Germany,",
+        "Id": "block4_line0_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 175.3152618408203,
+                "Top": 269.135986328125,
+                "Width": 22.097610473632812,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Greece,",
+        "Id": "block4_line0_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 198.49285888671875,
+                "Top": 269.135986328125,
+                "Width": 28.567855834960938,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Hungary1,",
+        "Id": "block4_line0_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 228.1407012939453,
+                "Top": 269.135986328125,
+                "Width": 21.283203125,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Ireland,",
+        "Id": "block4_line0_word6"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 250.50389099121094,
+                "Top": 269.135986328125,
+                "Width": 13.095962524414062,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Italy,",
+        "Id": "block4_line0_word7"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70069885253906,
+                "Top": 269.135986328125,
+                "Width": 192.6160125732422,
+                "Height": 18.45599365234375
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block4_line1",
+        "Text": "Malta, Netherlands (joint venture). Portugal, Romania, Spain, UK.",
+        "Child": [
+            "block4_line1_word0",
+            "block4_line1_word1",
+            "block4_line1_word2",
+            "block4_line1_word3",
+            "block4_line1_word4",
+            "block4_line1_word5",
+            "block4_line1_word6",
+            "block4_line1_word7"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70069885253906,
+                "Top": 278.6319580078125,
+                "Width": 17.323989868164062,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Malta,",
+        "Id": "block4_line1_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 92.10469055175781,
+                "Top": 278.6319580078125,
+                "Width": 35.9552001953125,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Netherlands",
+        "Id": "block4_line1_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 129.13987731933594,
+                "Top": 278.6319580078125,
+                "Width": 14.601608276367188,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "(joint",
+        "Id": "block4_line1_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 144.8214874267578,
+                "Top": 278.6319580078125,
+                "Width": 25.220840454101562,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "venture).",
+        "Id": "block4_line1_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 171.12232971191406,
+                "Top": 278.6319580078125,
+                "Width": 26.272003173828125,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Portugal,",
+        "Id": "block4_line1_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 198.4743194580078,
+                "Top": 278.6319580078125,
+                "Width": 27.050399780273438,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Romania,",
+        "Id": "block4_line1_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 226.60470581054688,
+                "Top": 278.6319580078125,
+                "Width": 17.3656005859375,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Spain,",
+        "Id": "block4_line1_word6"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 245.05029296875,
+                "Top": 278.6319580078125,
+                "Width": 10.11279296875,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "UK.",
+        "Id": "block4_line1_word7"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 293.0360107421875,
+                "Width": 159.20293426513672,
+                "Height": 21.640960693359375
+            }
+        ],
+        "Type": "Block",
+        "Text": "Rest of the world",
+        "BlockType": "Heading",
+        "Child": [],
+        "Id": "block5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 293.0360107421875,
+                "Width": 159.20293426513672,
+                "Height": 21.640960693359375
+            }
+        ],
+        "Type": "Sentence",
+        "Text": "Rest of the world",
+        "Child": [
+            "block5_line0_word0",
+            "block5_line0_word1",
+            "block5_line0_word2",
+            "block5_line0_word3"
+        ],
+        "Id": "block5_line0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 293.0360107421875,
+                "Width": 17.675697326660156,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "Rest",
+        "Id": "block5_line0_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 92.70649719238281,
+                "Top": 293.0360107421875,
+                "Width": 7.8403472900390625,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "of",
+        "Id": "block5_line0_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 101.87684631347656,
+                "Top": 293.0360107421875,
+                "Width": 12.9580078125,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "the",
+        "Id": "block5_line0_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 116.16484832763672,
+                "Top": 293.0360107421875,
+                "Width": 21.99822235107422,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "world",
+        "Id": "block5_line0_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 293.0360107421875,
+                "Width": 159.20293426513672,
+                "Height": 21.640960693359375
+            }
+        ],
+        "Type": "Block",
+        "Text": "4G in all markets, M-Pesa in 8 out of 12 markets.",
+        "BlockType": "Heading",
+        "Child": [
+            "block6_line1"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 293.0360107421875,
+                "Width": 159.20293426513672,
+                "Height": 21.640960693359375
+            }
+        ],
+        "Type": "Sentence",
+        "Text": "4G in all markets, M-Pesa in 8 out of 12 markets.",
+        "Child": [
+            "block6_line1_word0",
+            "block6_line1_word1",
+            "block6_line1_word2",
+            "block6_line1_word3",
+            "block6_line1_word4",
+            "block6_line1_word5",
+            "block6_line1_word6",
+            "block6_line1_word7",
+            "block6_line1_word8",
+            "block6_line1_word9",
+            "block6_line1_word10"
+        ],
+        "Id": "block6_line1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 304.0369873046875,
+                "Width": 9.9237060546875,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "4G",
+        "Id": "block6_line1_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 84.90699768066406,
+                "Top": 304.0369873046875,
+                "Width": 6.248146057128906,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "in",
+        "Id": "block6_line1_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 92.4376449584961,
+                "Top": 304.0369873046875,
+                "Width": 7.9714508056640625,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "all",
+        "Id": "block6_line1_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 101.69159698486328,
+                "Top": 304.0369873046875,
+                "Width": 29.247657775878906,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "markets,",
+        "Id": "block6_line1_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 132.2217559814453,
+                "Top": 304.0369873046875,
+                "Width": 25.439102172851562,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "M-Pesa",
+        "Id": "block6_line1_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 158.94337463378906,
+                "Top": 304.0369873046875,
+                "Width": 6.2481536865234375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "in",
+        "Id": "block6_line1_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 166.47402954101562,
+                "Top": 304.0369873046875,
+                "Width": 4.7595062255859375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "8",
+        "Id": "block6_line1_word6"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 172.5160369873047,
+                "Top": 304.0369873046875,
+                "Width": 11.74578857421875,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "out",
+        "Id": "block6_line1_word7"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 185.54434204101562,
+                "Top": 304.0369873046875,
+                "Width": 6.836212158203125,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "of",
+        "Id": "block6_line1_word8"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 193.66305541992188,
+                "Top": 304.0369873046875,
+                "Width": 8.676361083984375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "12",
+        "Id": "block6_line1_word9"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 203.62191772460938,
+                "Top": 304.0369873046875,
+                "Width": 29.281814575195312,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "markets.",
+        "Id": "block6_line1_word10"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.69828796386719,
+                "Top": 319.6353759765625,
+                "Width": 194.9665069580078,
+                "Height": 37.460052490234375
+            }
+        ],
+        "Type": "Block",
+        "Id": "block7",
+        "Text": "Emerging:",
+        "BlockType": "Heading",
+        "Child": [
+            "block7_line0"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.69828796386719,
+                "Top": 319.6353759765625,
+                "Width": 194.9665069580078,
+                "Height": 37.460052490234375
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block7_line0",
+        "Text": "Emerging:",
+        "BlockType": "Heading",
+        "Child": [
+            "block7_line0_word0"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 319.6353759765625,
+                "Width": 29.15039825439453,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Emerging:",
+        "Id": "block7_line0_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.69828796386719,
+                "Top": 319.6353759765625,
+                "Width": 194.9665069580078,
+                "Height": 37.460052490234375
+            }
+        ],
+        "Type": "Block",
+        "Id": "block8",
+        "Text": "Egypt2, Ghana2, Turkey, Vodacom Group (South Africa, \nTanzania2, Democratic Republic of Congo2,, Mozambique2, Lesotho2).",
+        "BlockType": "Paragraph",
+        "Child": [
+            "block8_line0",
+            "block8_line1"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.69828796386719,
+                "Top": 319.6353759765625,
+                "Width": 194.9665069580078,
+                "Height": 37.460052490234375
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block8_line0",
+        "Text": "Egypt2, Ghana2, Turkey, Vodacom Group (South Africa,",
+        "Child": [
+            "block8_line0_word0",
+            "block8_line0_word1",
+            "block8_line0_word2",
+            "block8_line0_word3",
+            "block8_line0_word4",
+            "block8_line0_word5",
+            "block8_line0_word6",
+            "block8_line0_word7"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.69828796386719,
+                "Top": 319.6353759765625,
+                "Width": 194.9665069580078,
+                "Height": 37.460052490234375
+            }
+        ],
+        "Type": "Block",
+        "Id": "block8_line1",
+        "Text": "Tanzania2, Democratic Republic of Congo2,, Mozambique2, Lesotho2).",
+        "Child": [
+            "block8_line1_word0",
+            "block8_line1_word1",
+            "block8_line1_word2",
+            "block8_line1_word3",
+            "block8_line1_word4",
+            "block8_line1_word5",
+            "block8_line1_word6"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 103.93280029296875,
+                "Top": 319.6353759765625,
+                "Width": 20.355499267578125,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Egypt2,",
+        "Id": "block8_line0_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 125.36830139160156,
+                "Top": 319.6353759765625,
+                "Width": 22.27911376953125,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Ghana2,",
+        "Id": "block8_line0_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 148.72740173339844,
+                "Top": 319.6353759765625,
+                "Width": 20.466400146484375,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Turkey,",
+        "Id": "block8_line0_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 170.27378845214844,
+                "Top": 319.6353759765625,
+                "Width": 27.914398193359375,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Vodacom",
+        "Id": "block8_line0_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 199.2681884765625,
+                "Top": 319.6353759765625,
+                "Width": 18.151214599609375,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Group",
+        "Id": "block8_line0_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 218.4993896484375,
+                "Top": 319.6353759765625,
+                "Width": 19.292800903320312,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "(South",
+        "Id": "block8_line0_word6"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 238.7921905517578,
+                "Top": 319.6353759765625,
+                "Width": 17.562393188476562,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Africa,",
+        "Id": "block8_line0_word7"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70341491699219,
+                "Top": 329.1313781738281,
+                "Width": 28.398086547851562,
+                "Height": 8.96405029296875
+            }
+        ],
+        "Type": "Word",
+        "Text": "Tanzania2,",
+        "Id": "block8_line1_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 103.10150146484375,
+                "Top": 329.1354064941406,
+                "Width": 33.514404296875,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Democratic",
+        "Id": "block8_line1_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 137.6159210205078,
+                "Top": 329.1354064941406,
+                "Width": 25.31439208984375,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Republic",
+        "Id": "block8_line1_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 163.93032836914062,
+                "Top": 329.1354064941406,
+                "Width": 5.772003173828125,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "of",
+        "Id": "block8_line1_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 170.70233154296875,
+                "Top": 329.1354064941406,
+                "Width": 23.412368774414062,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Congo2,,",
+        "Id": "block8_line1_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 195.11468505859375,
+                "Top": 329.1354064941406,
+                "Width": 41.10682678222656,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Mozambique2,",
+        "Id": "block8_line1_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 237.22149658203125,
+                "Top": 329.1354064941406,
+                "Width": 28.723297119140625,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Lesotho2).",
+        "Id": "block8_line1_word6"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70477294921875,
+                "Top": 338.63140869140625,
+                "Width": 18.19280242919922,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Block",
+        "Id": "block9",
+        "Text": "Other:",
+        "BlockType": "Heading",
+        "Child": [
+            "block9_line0"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70477294921875,
+                "Top": 338.63140869140625,
+                "Width": 18.19280242919922,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block9_line0",
+        "Text": "Other:",
+        "Child": [
+            "block9_line0_word0"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70477294921875,
+                "Top": 338.63140869140625,
+                "Width": 18.19280242919922,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Other:",
+        "Id": "block9_line0_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.69828796386719,
+                "Top": 319.6353759765625,
+                "Width": 194.9665069580078,
+                "Height": 37.460052490234375
+            }
+        ],
+        "Type": "Block",
+        "Id": "block10",
+        "Text": "New Zealand, Australia (joint venture), India2 (joint venture), \nKenya2\u00a0(associate).",
+        "BlockType": "Paragraph",
+        "Child": [
+            "block10_line2",
+            "block10_line3"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.69828796386719,
+                "Top": 319.6353759765625,
+                "Width": 194.9665069580078,
+                "Height": 37.460052490234375
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block10",
+        "Text": "New Zealand, Australia (joint venture), India2 (joint venture),",
+        "Child": [
+            "block10_line2_word0",
+            "block10_line2_word1",
+            "block10_line2_word2",
+            "block10_line2_word3",
+            "block10_line2_word4",
+            "block10_line2_word5",
+            "block10_line2_word6",
+            "block10_line2_word7",
+            "block10_line2_word8"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.69828796386719,
+                "Top": 319.6353759765625,
+                "Width": 194.9665069580078,
+                "Height": 37.460052490234375
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block10",
+        "Text": "Kenya2\u00a0(associate).",
+        "Child": [
+            "block10_line3_word0"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 92.97677612304688,
+                "Top": 338.63140869140625,
+                "Width": 13.428794860839844,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "New",
+        "Id": "block10_line2_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 107.4855728149414,
+                "Top": 338.63140869140625,
+                "Width": 24.81999969482422,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Zealand,",
+        "Id": "block10_line2_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 133.38555908203125,
+                "Top": 338.63140869140625,
+                "Width": 25.211959838867188,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Australia",
+        "Id": "block10_line2_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 159.67752075195312,
+                "Top": 338.63140869140625,
+                "Width": 14.60162353515625,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "(joint",
+        "Id": "block10_line2_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 175.35914611816406,
+                "Top": 338.63140869140625,
+                "Width": 25.194442749023438,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "venture),",
+        "Id": "block10_line2_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 201.63357543945312,
+                "Top": 338.63140869140625,
+                "Width": 16.019989013671875,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "India2",
+        "Id": "block10_line2_word6"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 218.8502960205078,
+                "Top": 338.6354064941406,
+                "Width": 14.601608276367188,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "(joint",
+        "Id": "block10_line2_word7"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 234.5319061279297,
+                "Top": 338.6354064941406,
+                "Width": 25.193588256835938,
+                "Height": 8.96002197265625
+            }
+        ],
+        "Type": "Word",
+        "Text": "venture),",
+        "Id": "block10_line2_word8"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.69828796386719,
+                "Top": 348.13140869140625,
+                "Width": 53.266014099121094,
+                "Height": 8.964019775390625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Kenya2\u00a0(associate).",
+        "Id": "block10_line3_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 301.8739929199219,
+                "Top": 368.176025390625,
+                "Width": 78.22775268554688,
+                "Height": 22.839996337890625
+            }
+        ],
+        "Type": "Block",
+        "Id": "block11",
+        "Text": " Europe ",
+        "BlockType": "List",
+        "Child": [
+            "block11_line0",
+            "block11_line1",
+            "block11_line2"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 301.8739929199219,
+                "Top": 368.176025390625,
+                "Width": 78.22775268554688,
+                "Height": 22.839996337890625
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block11_line0",
+        "Text": " Europe \n Rest of the World \n Joint Ventures and Associates",
+        "Child": [
+            "block11_line0_word0"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 305.1289978027344,
+                "Top": 368.176025390625,
+                "Width": 18.451995849609375,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Europe",
+        "Id": "block11_line0_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 301.8739929199219,
+                "Top": 368.176025390625,
+                "Width": 78.22775268554688,
+                "Height": 22.839996337890625
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block11_line1",
+        "Text": "Rest of the World ",
+        "Child": [
+            "block11_line1_word0",
+            "block11_line1_word1",
+            "block11_line1_word2",
+            "block11_line1_word3"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 305.1289978027344,
+                "Top": 375.676025390625,
+                "Width": 11.493988037109375,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Rest",
+        "Id": "block11_line1_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 317.5679931640625,
+                "Top": 375.676025390625,
+                "Width": 5.120513916015625,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "of",
+        "Id": "block11_line1_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 323.63348388671875,
+                "Top": 375.676025390625,
+                "Width": 8.661102294921875,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "the",
+        "Id": "block11_line1_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 333.2395935058594,
+                "Top": 375.676025390625,
+                "Width": 15.0675048828125,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "World",
+        "Id": "block11_line1_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 301.8739929199219,
+                "Top": 368.176025390625,
+                "Width": 78.22775268554688,
+                "Height": 22.839996337890625
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block11_line2",
+        "Text": " Joint Ventures and Associates",
+        "Child": [
+            "block11_line2_word0",
+            "block11_line2_word1",
+            "block11_line2_word2",
+            "block11_line2_word3"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 305.1289978027344,
+                "Top": 383.176025390625,
+                "Width": 12.37457275390625,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Joint",
+        "Id": "block11_line2_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 318.4485778808594,
+                "Top": 383.176025390625,
+                "Width": 22.89703369140625,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Ventures",
+        "Id": "block11_line2_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 342.29058837890625,
+                "Top": 383.176025390625,
+                "Width": 9.815399169921875,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "and",
+        "Id": "block11_line2_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 353.0509948730469,
+                "Top": 383.176025390625,
+                "Width": 27.050750732421875,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Associates",
+        "Id": "block11_line2_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 368.655517578125,
+                "Width": 137.19437408447266,
+                "Height": 22.834014892578125
+            }
+        ],
+        "Type": "Block",
+        "Id": "block12",
+        "Text": " \nNotes:  \n1 Mobile services only. 2 M-Pesa services available.",
+        "BlockType": "List",
+        "Child": [
+            "block12_line1",
+            "block12-line2"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 368.655517578125,
+                "Width": 137.19437408447266,
+                "Height": 22.834014892578125
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block12_line1",
+        "Text": "Notes",
+        "Child": [
+            "block12_line1_word0"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 368.655517578125,
+                "Width": 137.19437408447266,
+                "Height": 22.834014892578125
+            }
+        ],
+        "Type": "Block",
+        "Id": "block12_line2",
+        "Text": "1 Mobile services only. 2 M-Pesa services available.",
+        "Child": [
+            "block12_line2_word0",
+            "block12_line2_word1",
+            "block12_line2_word2",
+            "block12_line2_word3",
+            "block12_line2_word4",
+            "block12_line2_word5",
+            "block12_line2_word6",
+            "block12_line2_word7"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 376.15252685546875,
+                "Width": 16.26378631591797,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Notes:",
+        "Id": "block12_line1_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 383.6495361328125,
+                "Width": 3.5069961547851562,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "1",
+        "Id": "block12_line2_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 80.28779602050781,
+                "Top": 383.6495361328125,
+                "Width": 17.583290100097656,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Mobile",
+        "Id": "block12_line2_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 98.88538360595703,
+                "Top": 383.6495361328125,
+                "Width": 21.060203552246094,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "services",
+        "Id": "block12_line2_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 120.95988464355469,
+                "Top": 383.6495361328125,
+                "Width": 12.270980834960938,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "only.",
+        "Id": "block12_line2_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 139.80880737304688,
+                "Top": 383.6495361328125,
+                "Width": 3.5070037841796875,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "2",
+        "Id": "block12_line2_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 146.39581298828125,
+                "Top": 383.6495361328125,
+                "Width": 18.965072631835938,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "M-Pesa",
+        "Id": "block12_line2_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 166.23519897460938,
+                "Top": 383.6495361328125,
+                "Width": 20.5701904296875,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "services",
+        "Id": "block12_line2_word6"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 187.6803741455078,
+                "Top": 383.6495361328125,
+                "Width": 23.214797973632812,
+                "Height": 7.839996337890625
+            }
+        ],
+        "Type": "Word",
+        "Text": "available.",
+        "Id": "block12_line2_word7"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Block",
+        "Id": "block13",
+        "Text": "Worldwide service reach",
+        "BlockType": "Heading",
+        "Child": [
+            "block13_line0"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block13_line0",
+        "Text": "Worldwide service reach",
+        "Child": [
+            "block13_line0_word0",
+            "block13_line0_word1",
+            "block13_line0_word2"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 49.63799285888672,
+                "Height": 13.44000244140625
+            }
+        ],
+        "Type": "Word",
+        "Text": "Worldwide",
+        "Id": "block13_line0_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 125.5347900390625,
+                "Top": 399.4358215332031,
+                "Width": 34.241973876953125,
+                "Height": 13.44000244140625
+            }
+        ],
+        "Type": "Word",
+        "Text": "service",
+        "Id": "block13_line0_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 161.97276306152344,
+                "Top": 399.4358215332031,
+                "Width": 26.517608642578125,
+                "Height": 13.44000244140625
+            }
+        ],
+        "Type": "Word",
+        "Text": "reach",
+        "Id": "block13_line0_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Block",
+        "Id": "block14",
+        "Text": "41",
+        "BlockType": "Heading",
+        "Child": [
+            "block23_line1"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block14_line1",
+        "Text": "41",
+        "Child": [
+            "block14_line1_word0"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 409.8263244628906,
+                "Width": 28.589996337890625,
+                "Height": 33.600006103515625
+            }
+        ],
+        "Type": "Word",
+        "Text": "41",
+        "Id": "block14_line1_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Block",
+        "Id": "block15",
+        "Text": "partner markets",
+        "BlockType": "Heading",
+        "Child": [
+            "block15_line2"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block15_line2",
+        "Text": "partner markets",
+        "Child": [
+            "block15_line2_word0",
+            "block15_line2_word1"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 439.2763366699219,
+                "Width": 28.446800231933594,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "partner",
+        "Id": "block15_line2_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 103.28761291503906,
+                "Top": 439.2763366699219,
+                "Width": 31.68536376953125,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "markets",
+        "Id": "block15_line2_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Block",
+        "Id": "block16",
+        "Text": "To extend our reach beyond the companies \nwe own, we have partnership agreements \nwith local operators in 41 countries.",
+        "BlockType": "Paragraph",
+        "Child": [
+            "block16_line3",
+            "block16_line4",
+            "block16_line5"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block16_line3",
+        "Text": "To extend our reach beyond the companies",
+        "Child": [
+            "block16_line3_word0",
+            "block16_line3_word1",
+            "block16_line3_word2",
+            "block16_line3_word3",
+            "block16_line3_word4",
+            "block16_line3_word5",
+            "block16_line3_word6"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block16_line4",
+        "Text": "we own, we have partnership agreements",
+        "Child": [
+            "block16_line4_word0",
+            "block16_line4_word1",
+            "block16_line4_word2",
+            "block16_line4_word3",
+            "block16_line4_word4",
+            "block16_line4_word5"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block16_line5",
+        "Text": "with local operators in 41 countries.",
+        "Child": [
+            "block16_line5_word0",
+            "block16_line5_word1",
+            "block16_line5_word2",
+            "block16_line5_word3",
+            "block16_line5_word4",
+            "block16_line5_word5"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.7008056640625,
+                "Top": 450.27734375,
+                "Width": 8.199447631835938,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "To",
+        "Id": "block16_line3_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 83.18275451660156,
+                "Top": 450.27734375,
+                "Width": 23.648353576660156,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "extend",
+        "Id": "block16_line3_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 108.11360931396484,
+                "Top": 450.27734375,
+                "Width": 11.737251281738281,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "our",
+        "Id": "block16_line3_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 121.13335418701172,
+                "Top": 450.27734375,
+                "Width": 19.14441680908203,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "reach",
+        "Id": "block16_line3_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 141.56027221679688,
+                "Top": 450.27734375,
+                "Width": 26.2171630859375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "beyond",
+        "Id": "block16_line3_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 169.0599365234375,
+                "Top": 450.27734375,
+                "Width": 11.540603637695312,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "the",
+        "Id": "block16_line3_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 181.88304138183594,
+                "Top": 450.27734375,
+                "Width": 37.49269104003906,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "companies",
+        "Id": "block16_line3_word6"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.7008056640625,
+                "Top": 461.2783508300781,
+                "Width": 10.153594970703125,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "we",
+        "Id": "block16_line4_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 85.13690185546875,
+                "Top": 461.2783508300781,
+                "Width": 16.373252868652344,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "own,",
+        "Id": "block16_line4_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 102.79265594482422,
+                "Top": 461.2783508300781,
+                "Width": 10.15264892578125,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "we",
+        "Id": "block16_line4_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 114.2278060913086,
+                "Top": 461.2783508300781,
+                "Width": 16.41600799560547,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "have",
+        "Id": "block16_line4_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 131.9263153076172,
+                "Top": 461.2783508300781,
+                "Width": 39.17799377441406,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "partnership",
+        "Id": "block16_line4_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 172.38681030273438,
+                "Top": 461.2783508300781,
+                "Width": 41.15586853027344,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "agreements",
+        "Id": "block16_line4_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.7008056640625,
+                "Top": 472.27935791015625,
+                "Width": 14.679397583007812,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "with",
+        "Id": "block16_line5_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 89.66270446777344,
+                "Top": 472.27935791015625,
+                "Width": 16.215545654296875,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "local",
+        "Id": "block16_line5_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 107.16075134277344,
+                "Top": 472.27935791015625,
+                "Width": 32.69996643066406,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "operators",
+        "Id": "block16_line5_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 141.14321899414062,
+                "Top": 472.27935791015625,
+                "Width": 6.2481536865234375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "in",
+        "Id": "block16_line5_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 148.6738739013672,
+                "Top": 472.27935791015625,
+                "Width": 8.827407836914062,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "41",
+        "Id": "block16_line5_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 158.78378295898438,
+                "Top": 472.27935791015625,
+                "Width": 33.27372741699219,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "countries.",
+        "Id": "block16_line5_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Block",
+        "Id": "block17",
+        "Text": "74",
+        "BlockType": "Heading",
+        "Child": [
+            "block17_line6"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block17_line6",
+        "Text": "74",
+        "Child": [
+            "block17_line6_word0"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 238.11019897460938,
+                "Top": 409.8263244628906,
+                "Width": 27.660003662109375,
+                "Height": 33.600006103515625
+            }
+        ],
+        "Type": "Word",
+        "Text": "74",
+        "Id": "block17_line6_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Block",
+        "Id": "block18",
+        "Text": "countries with IP-VPN ",
+        "BlockType": "Heading",
+        "Child": [
+            "block18_line7"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block18",
+        "Text": "countries with IP-VPN ",
+        "Child": [
+            "block23_line7_word0",
+            "block23_line7_word1",
+            "block23_line7_word2"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 238.11019897460938,
+                "Top": 439.2763366699219,
+                "Width": 35.929962158203125,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "countries",
+        "Id": "block23_line7_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 275.18017578125,
+                "Top": 439.2763366699219,
+                "Width": 16.5955810546875,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "with",
+        "Id": "block23_line7_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 292.915771484375,
+                "Top": 439.2763366699219,
+                "Width": 26.694091796875,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "IP-VPN",
+        "Id": "block23_line7_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Block",
+        "Id": "block19",
+        "Text": "We are among the top five internet  \nproviders globally and one of the largest \noperators of submarine cables.",
+        "BlockType": "Paragraph",
+        "Child": [
+            "block19_line8",
+            "block19_line9",
+            "block19_line10"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block19_line8",
+        "Text": "We are among the top five internet",
+        "Child": [
+            "block19_line8_word0",
+            "block19_line8_word1",
+            "block19_line8_word2",
+            "block19_line8_word3",
+            "block19_line8_word4",
+            "block19_line8_word5",
+            "block19_line8_word6"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block19_line9",
+        "Text": "providers globally and one of the largest ",
+        "Child": [
+            "block19_line9_word0",
+            "block19_line9_word1",
+            "block19_line9_word2",
+            "block19_line9_word3",
+            "block19_line9_word4",
+            "block19_line9_word5",
+            "block19_line9_word6"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block19_line10",
+        "Text": "operators of submarine cables.",
+        "Child": [
+            "block19_line10_word0",
+            "block19_line10_word1",
+            "block19_line10_word2",
+            "block19_line10_word3"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 238.11019897460938,
+                "Top": 450.27734375,
+                "Width": 10.774887084960938,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "We",
+        "Id": "block19_line8_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 249.88258361816406,
+                "Top": 450.27734375,
+                "Width": 10.579208374023438,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "are",
+        "Id": "block19_line8_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 261.45928955078125,
+                "Top": 450.27734375,
+                "Width": 23.829803466796875,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "among",
+        "Id": "block19_line8_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 286.2865905761719,
+                "Top": 450.27734375,
+                "Width": 11.255615234375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "the",
+        "Id": "block19_line8_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 298.5397033691406,
+                "Top": 450.27734375,
+                "Width": 11.2413330078125,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "top",
+        "Id": "block19_line8_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 310.778564453125,
+                "Top": 450.27734375,
+                "Width": 11.807586669921875,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "five",
+        "Id": "block19_line8_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 323.5836486816406,
+                "Top": 450.27734375,
+                "Width": 25.662384033203125,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "internet",
+        "Id": "block19_line8_word6"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 238.11019897460938,
+                "Top": 461.2783508300781,
+                "Width": 30.327850341796875,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "providers",
+        "Id": "block19_line9_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 269.435546875,
+                "Top": 461.2783508300781,
+                "Width": 25.87994384765625,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "globally",
+        "Id": "block19_line9_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 296.31298828125,
+                "Top": 461.2783508300781,
+                "Width": 12.82025146484375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "and",
+        "Id": "block19_line9_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 310.1307373046875,
+                "Top": 461.2783508300781,
+                "Width": 13.147064208984375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "one",
+        "Id": "block19_line9_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 324.2752990722656,
+                "Top": 461.2783508300781,
+                "Width": 6.693695068359375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "of",
+        "Id": "block19_line9_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 331.96649169921875,
+                "Top": 461.2783508300781,
+                "Width": 11.255615234375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "the",
+        "Id": "block19_line9_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 344.2196044921875,
+                "Top": 461.2783508300781,
+                "Width": 22.275665283203125,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "largest",
+        "Id": "block19_line9_word6"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 238.11019897460938,
+                "Top": 472.27935791015625,
+                "Width": 31.559051513671875,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "operators",
+        "Id": "block19_line10_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 270.666748046875,
+                "Top": 472.27935791015625,
+                "Width": 6.6937255859375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "of",
+        "Id": "block19_line10_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 278.3580017089844,
+                "Top": 472.27935791015625,
+                "Width": 35.107269287109375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "submarine",
+        "Id": "block19_line10_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 314.65277099609375,
+                "Top": 472.27935791015625,
+                "Width": 23.59893798828125,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "cables.",
+        "Id": "block19_line10_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Block",
+        "Id": "block20",
+        "Text": "168",
+        "BlockType": "Heading",
+        "Child": [
+            "block20_line11"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block20",
+        "Text": "168",
+        "Child": [
+            "block20_line11_word0"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 402.51971435546875,
+                "Top": 409.8263244628906,
+                "Width": 43.05303955078125,
+                "Height": 33.600006103515625
+            }
+        ],
+        "Type": "Word",
+        "Text": "168",
+        "Id": "block20_line11_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Block",
+        "Id": "block21",
+        "Text": "countries with 4G roaming coverage",
+        "BlockType": "Heading",
+        "Child": [
+            "block21_line12"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block21_line12",
+        "Text": "countries with 4G roaming coverage",
+        "Child": [
+            "block21_line12_word0",
+            "block21_line12_word1",
+            "block21_line12_word2",
+            "block21_line12_word3",
+            "block21_line12_word4"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 402.51971435546875,
+                "Top": 439.2763366699219,
+                "Width": 35.929962158203125,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "countries",
+        "Id": "block21_line12_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 439.5896911621094,
+                "Top": 439.2763366699219,
+                "Width": 16.5955810546875,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "with",
+        "Id": "block21_line12_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 457.3252868652344,
+                "Top": 439.2763366699219,
+                "Width": 10.498443603515625,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "4G",
+        "Id": "block21_line12_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 468.9637451171875,
+                "Top": 439.2763366699219,
+                "Width": 31.9693603515625,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "roaming",
+        "Id": "block21_line12_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 502.0731201171875,
+                "Top": 439.2763366699219,
+                "Width": 34.68353271484375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "coverage",
+        "Id": "block21_line12_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Block",
+        "Id": "block22",
+        "Text": "Our leading global 4G roaming footprint \nserves twice as many destinations as the next \nbest local competitor in most of our markets.",
+        "BlockType": "Paragraph",
+        "Child": [
+            "block22_line13",
+            "block22_line14",
+            "block22_line15"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block22_line13",
+        "Text": "Our leading global 4G roaming footprint",
+        "Child": [
+            "block22_line13_word0",
+            "block22_line13_word1",
+            "block22_line13_word2",
+            "block22_line13_word3",
+            "block22_line13_word4",
+            "block22_line13_word5"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block22_line14",
+        "Text": "serves twice as many destinations as the next",
+        "BlockType": "Paragraph",
+        "Child": [
+            "block22_line14_word0",
+            "block22_line14_word1",
+            "block22_line14_word2",
+            "block22_line14_word3",
+            "block22_line14_word4",
+            "block22_line14_word5",
+            "block22_line14_word6",
+            "block22_line14_word7"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Sentence",
+        "Id": "block22_line15",
+        "Text": "best local competitor in most of our markets.",
+        "BlockType": "Paragraph",
+        "Child": [
+            "block22_line15_word0",
+            "block22_line15_word1",
+            "block22_line15_word2",
+            "block22_line15_word3",
+            "block22_line15_word4",
+            "block22_line15_word5",
+            "block22_line15_word6",
+            "block22_line15_word7"
+        ]
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 402.51971435546875,
+                "Top": 450.27734375,
+                "Width": 12.921875,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "Our",
+        "Id": "block22_line13_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 416.72412109375,
+                "Top": 450.27734375,
+                "Width": 24.821624755859375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "leading",
+        "Id": "block22_line13_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 442.8282775878906,
+                "Top": 450.27734375,
+                "Width": 21.02825927734375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "global",
+        "Id": "block22_line13_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 465.1390686035156,
+                "Top": 450.27734375,
+                "Width": 9.927490234375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "4G",
+        "Id": "block22_line13_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 476.34814453125,
+                "Top": 450.27734375,
+                "Width": 28.387908935546875,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "roaming",
+        "Id": "block22_line13_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 506.0185852050781,
+                "Top": 450.27734375,
+                "Width": 29.316131591796875,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "footprint",
+        "Id": "block22_line13_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 402.51971435546875,
+                "Top": 461.2783508300781,
+                "Width": 21.93359375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "serves",
+        "Id": "block22_line14_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 425.73577880859375,
+                "Top": 461.2783508300781,
+                "Width": 18.50128173828125,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "twice",
+        "Id": "block22_line14_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 445.51953125,
+                "Top": 461.2783508300781,
+                "Width": 7.466064453125,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "as",
+        "Id": "block22_line14_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 454.26806640625,
+                "Top": 461.2783508300781,
+                "Width": 19.5452880859375,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "many",
+        "Id": "block22_line14_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 475.0958251953125,
+                "Top": 461.2783508300781,
+                "Width": 41.238525390625,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "destinations",
+        "Id": "block22_line14_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 517.6168823242188,
+                "Top": 461.2783508300781,
+                "Width": 7.46600341796875,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "as",
+        "Id": "block22_line14_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 526.3654174804688,
+                "Top": 461.2783508300781,
+                "Width": 11.54058837890625,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "the",
+        "Id": "block22_line14_word6"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 539.1885375976562,
+                "Top": 461.2783508300781,
+                "Width": 15.10601806640625,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "next",
+        "Id": "block22_line14_word7"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 402.51971435546875,
+                "Top": 472.27935791015625,
+                "Width": 14.890289306640625,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "best",
+        "Id": "block22_line15_word0"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 418.6925048828125,
+                "Top": 472.27935791015625,
+                "Width": 16.215545654296875,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "local",
+        "Id": "block22_line15_word1"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 436.1905212402344,
+                "Top": 472.27935791015625,
+                "Width": 37.743560791015625,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "competitor",
+        "Id": "block22_line15_word2"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 475.2165832519531,
+                "Top": 472.27935791015625,
+                "Width": 6.2481689453125,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "in",
+        "Id": "block22_line15_word3"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 482.7472229003906,
+                "Top": 472.27935791015625,
+                "Width": 17.64910888671875,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "most",
+        "Id": "block22_line15_word4"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 501.6788330078125,
+                "Top": 472.27935791015625,
+                "Width": 6.836212158203125,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "of",
+        "Id": "block22_line15_word5"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 509.79754638671875,
+                "Top": 472.27935791015625,
+                "Width": 11.7371826171875,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "our",
+        "Id": "block22_line15_word6"
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 522.8172607421875,
+                "Top": 472.27935791015625,
+                "Width": 29.2818603515625,
+                "Height": 10.639984130859375
+            }
+        ],
+        "Type": "Word",
+        "Text": "markets.",
+        "Id": "block22_line15_word7"
+    }
+]

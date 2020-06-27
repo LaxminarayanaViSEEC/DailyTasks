@@ -1,0 +1,62 @@
+[
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Block",
+        "Id": "block19",
+        "Text": "We are among the top five internet  \nproviders globally and one of the largest \noperators of submarine cables.",
+        "BlockType": "Paragraph",
+        "Child": []
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Block",
+        "Id": "block20",
+        "Text": "168",
+        "BlockType": "Heading",
+        "Child": []
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Block",
+        "Id": "block21",
+        "Text": "countries with 4G roaming coverage",
+        "BlockType": "Heading",
+        "Child": []
+    },
+    {
+        "BoundingBox": [
+            {
+                "Left": 73.70079803466797,
+                "Top": 399.4358215332031,
+                "Width": 482.54029083251953,
+                "Height": 83.4835205078125
+            }
+        ],
+        "Type": "Block",
+        "Id": "block22",
+        "Text": "Our leading global 4G roaming footprint \nserves twice as many destinations as the next \nbest local competitor in most of our markets.",
+        "BlockType": "Paragraph",
+        "Child": []
+    }
+]
